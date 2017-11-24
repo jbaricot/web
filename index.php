@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Progate</title>
+    <title>jbaricot</title>
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
@@ -13,7 +13,7 @@
     <header>
         <div class="container">
             <div class="header-left">
-                <img class="logo" src="https://prog-8.com/images/html/advanced/main_logo.png">
+                <img class="logo" src="https://sosracismo.eu/wp-content/uploads/2016/06/Logo-web.png">
             </div>
             <div class="header-right">
                 <div class="login" id="login-show">Log in</div>
@@ -52,12 +52,16 @@
     </div>
     <div class="top-wrapper">
         <div class="container">
-            <h1>LEARN TO CODE.<br>LEARN TO BE CREATIVE.</h1>
-            <p>Progate is a web service where you can learn programming online.<br>We offer you a fully equipped coding environment to get you started.</p>
+            <h1>LEARN TO CODE.
+                <br>LEARN TO BE CREATIVE.</h1>
+            <p>Progate is a web service where you can learn programming online.
+                <br>We offer you a fully equipped coding environment to get you started.</p>
             <div class="btn signup signup-show">Sign up with Email</div>
             <p>or</p>
-            <div class="btn facebook"><span class="fa fa-facebook"></span>Sign up with Facebook</div>
-            <div class="btn twitter"><span class="fa fa-twitter"></span>Sign up with Twitter</div>
+            <div class="btn facebook">
+                <span class="fa fa-facebook"></span>Sign up with Facebook</div>
+            <div class="btn twitter">
+                <span class="fa fa-twitter"></span>Sign up with Twitter</div>
         </div>
     </div>
     <div class="lesson-wrapper">
